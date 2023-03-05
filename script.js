@@ -12,7 +12,7 @@ function init_bis(json){
         new Component(element.name)
     });
     console.log(Component.instanciated)
-    random_item(Component.instanciated).blink()
+    // random_item(Component.instanciated).blink()
 }
 
 
