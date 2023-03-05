@@ -1,0 +1,59 @@
+{
+
+    "Elements":[
+            
+            {
+                "name":"7SR684"
+            },
+            {
+                "name":"7SR682"
+            },
+            {
+                "name":"7SR680"
+            },
+            {
+                "name":"Filter"
+            },
+            {
+                "name":"Center_Filler"
+            },
+            {
+                "name":"Left_Filler"
+            },
+            {
+                "name":"Right_Filler"
+            },
+            {
+                "name":"7FN420"
+            },
+            {
+                "name":"7FT422"
+            },
+            {
+                "name":"7RG42"
+            },
+            {
+                "name":"7HT430"
+            },
+            {
+                "name":"7EL412"
+            },
+            {
+                "name":"7SC610"
+            },
+            {
+                "name":"7EL410"
+            },
+            {
+                "name":"7HP612"
+            },
+            {
+                "name":"top_level_rotative"
+            },
+            {
+                "name":"bottom_level_rotative"
+            }
+
+    ]
+}
+
